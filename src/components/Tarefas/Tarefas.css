@@ -11,7 +11,7 @@
 }
 
 .tarefas li:hover{
-    background: #51c5de;
+    background: #6A5ACD;
 }
 
 
@@ -34,7 +34,7 @@
 
 .edit{
     margin-right: 30px;
-    color: #51c5de;
+    color: #6A5ACD;
 }
 
 .delete{
